@@ -1,25 +1,16 @@
-# Crypto Hack
+# Blooket Hacks
 
-## [Always Triple](alwaysTriple.js)
-Always get triple crypto
+This is a respatory with all the best Blooket Hacks I have found/made
 
-## [Auto Guess](autoGuess.js)
-Selects the correct password when hacking
 
-## [Choice ESP](choiceESP.js)
-Shows what's behind the choice boxes
+## Donate
 
-## [Password ESP](passwordESP.js)
-Highlights the correct password
+If you made any money please buy me a coffee thanks
 
-## [Remove Hack](removeHack.js)
-Removes an attacking hack
+Bitcoin: bc1q6rffymxazvcw0chusqnudlqan8tvw0deukt7ml
 
-## [Set Crypto](setCrypto.js)
-Sets crypto
+Monero: 42UpPiZytojM9ajQ5Nc8iJ1jdPmPvTfAfWM7bAnBGyqFZ9A7MUH8G7MApZrvLafMQb5Kz6T6W4VWrf5mKNjqaz4W9c2eEoo
 
-## [Set Password](setPassword.js)
-Sets hacking password
+Eth: 0x77d1844d0f0F82FC36C42C79CB59eC4C52587D54
 
-## [Steal Players Crypto](stealPlayersCrypto.js)
-Steals all of someone's crypto
+Sol: QT2HpD8mqnzg3jpBLUcdYFZStzBmxDAqKnKvf7iKoGm
