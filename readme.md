@@ -5,7 +5,7 @@ This is a respatory with all the best Blooket Hacks I have found/made
 
 ## Donate
 
-If you made any money please buy me a coffee thanks
+Please donate to me if you had fun😊
 
 Bitcoin: bc1q6rffymxazvcw0chusqnudlqan8tvw0deukt7ml
 
